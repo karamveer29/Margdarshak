@@ -80,6 +80,8 @@ This project implements a **Dynamic Route Rationalization Model** using **AI/ML*
 
 ## 📂 Project Structure
 
+```
+
 dynamic-route-optimization/
 ├── frontend/
 │   ├── pages/
@@ -111,6 +113,9 @@ dynamic-route-optimization/
 │
 ├── README.md
 
+````
+
+---
 
 ## ⚙️ How It Works
 
