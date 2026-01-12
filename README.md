@@ -80,29 +80,37 @@ This project implements a **Dynamic Route Rationalization Model** using **AI/ML*
 
 ## 📂 Project Structure
 
-Dynamic-Route-Optimization/
-├── index.html
-├── index1.html
-├── options.html
-├── user_dashboard.html
-├── userinfo.html
+dynamic-route-optimization/
+├── frontend/
+│   ├── pages/
+│   │   ├── index.html
+│   │   ├── index1.html
+│   │   ├── options.html
+│   │   ├── user_dashboard.html
+│   │   ├── userinfo.html
+│   │   ├── live_bus_tracking.html
+│   │   ├── realtimerouting.html
+│   │   └── realtime.html
+│   │
+│   ├── styles/
+│   │   ├── styles.css
+│   │   └── styles1.css
+│   │
+│   └── assets/
+│       └── images/
 │
-├── live_bus_tracking.html
-├── realtimerouting.html
-├── realtime.html
+├── backend/
+│   ├── model.py
+│   ├── modelevaluation.py
+│   ├── realtimeroute.py
+│   ├── roadstimul.py
+│   └── r.py
 │
-├── styles.css
-├── styles1.css
+├── data/
+│   └── traffic_simulation_data.csv
 │
-├── model.py
-├── modelevaluation.py
-├── realtimeroute.py
-├── roadstimul.py
-├── r.py
-│
-└── README.md
+├── README.md
 
----
 
 ## ⚙️ How It Works
 
