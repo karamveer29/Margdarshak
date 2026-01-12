@@ -164,6 +164,8 @@ dynamic-route-optimization/
 
 ## 👨‍💻 Team Members 
 
+````
+
 Manya Srivastava
 B.Tech – Computer Science & Engineering (Data Science)  
  
@@ -176,6 +178,7 @@ B.Tech – Computer Science & Engineering (Data Science)
 Karamveer Singh  
 B.Tech – Computer Science & Engineering (Data Science)  
 
+````
 
 ---
 
